@@ -1,0 +1,1 @@
+The content of this repository is provided "as is" with no implied warranty. Also the content is available under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
